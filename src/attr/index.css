@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: "#FAFAFA";
+}
+
+.card:hover{
+    border: 1px solid #29B6F6;
+}
